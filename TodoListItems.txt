@@ -1,0 +1,7 @@
+Mail birthday card	Buy a 30th birthday card for john	25-04-2016
+Project date	to finish the project	12-07-2023
+Java study	to finish the java course before 2023	31-12-2022
+to finish the unix course	to complete the course to get job	25-01-2022
+New Job	Get the New Job before January	31-01-2023
+Unix text	to complete as soon as posible	15-01-2023
+Javafx deadline	to finish the javafx by today	29-12-2022
